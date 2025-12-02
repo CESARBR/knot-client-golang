@@ -1,2 +1,2 @@
-# knot-client-golang
-Reference implementation for KNoT client in golang
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
